@@ -1,2 +1,2 @@
 # Week-1
-This project showcases an interactive Power BI dashboard analyzing Indian agriculture trends. It covers crop production, rainfall impact, regional performance, and economic contributions. Built for policymakers, researchers, and agronomists, it provides actionable insights with a focus on user-friendly visualizations and predictive trends.
+This course will help to understand the basics of data analytics,power bi and related concepts. In this Project, we will analyze 19 years of Indian agriculture data to find various parameters of crop production, prediction based on past data and Minimum support price for the given crop for the given years. 
